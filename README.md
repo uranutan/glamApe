@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YuguangIpsen
 - 👀 I’m interested in ML/AI startups, devOps, building mobile apps.
-- 🌱 I’m currently learning Flutter and tensorflow lite.
+- 🌱 I’m currently learning Flutter and tensorflow.
 - 💞️ I’m looking to collaborate on making beautiful AI apps.
 - 📫 How to reach me on twitter @mvlfyg
 
